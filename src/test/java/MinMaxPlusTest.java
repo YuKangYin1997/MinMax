@@ -10,7 +10,7 @@ import java.util.List;
 public class MinMaxPlusTest {
 
     public static void main(String[] args) {
-        MinMaxPlus minMaxPlus = new MinMaxPlus(1, 1000, 100);
+        MinMaxPlus minMaxPlus = new MinMaxPlus(1, 1000, 70);
         Topology tp = new Topology();
         tp.setDefaultNodeModel(MinMaxPlusNode.class);
 

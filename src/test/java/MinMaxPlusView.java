@@ -1,4 +1,3 @@
-import ca.uottawa.csi5318.node.MinMaxNode;
 import ca.uottawa.csi5318.node.MinMaxPlusNode;
 import io.jbotsim.core.Link;
 import io.jbotsim.core.Point;

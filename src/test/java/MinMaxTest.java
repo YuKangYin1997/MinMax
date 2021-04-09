@@ -10,7 +10,7 @@ import java.util.List;
 public class MinMaxTest {
 
     public static void main(String[] args) {
-        MinMax minMax = new MinMax(1, 1000, 110);
+        MinMax minMax = new MinMax(1, 1000, 70);
         Topology tp = new Topology();
         tp.setDefaultNodeModel(MinMaxNode.class);
 
